@@ -1,4 +1,4 @@
-                                                        Customer Churn Analysis – Data Analytics Project
+                                                  Customer Churn Analysis – Data Analytics Project
 
 1. Project Title
 Customer Churn Analysis Using Python, SQL, and Power BI
