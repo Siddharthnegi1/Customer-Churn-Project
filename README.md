@@ -143,13 +143,13 @@ By combining Python, SQL, and Power BI, the project builds a complete analytics 
 
 13. Screenshot of the Dashboard
 •	Main page- Customer Demographics.
-( https://github.com/Siddharthnegi1/Customer-Churn-Project/blob/main/Screenshot%20Folder/1.%20Main%20page%20-%20customer%20demographics.png )
+![image alt]( https://github.com/Siddharthnegi1/Customer-Churn-Project/blob/main/Screenshot%20Folder/1.%20Main%20page%20-%20customer%20demographics.png )
 
 •	Customer Overview.
-( https://github.com/Siddharthnegi1/Customer-Churn-Project/blob/main/Screenshot%20Folder/2.%20Customer%20account%20overview.png )
+![image alt]( https://github.com/Siddharthnegi1/Customer-Churn-Project/blob/main/Screenshot%20Folder/2.%20Customer%20account%20overview.png )
 
 •	Customer Subscribed Services.
-( https://github.com/Siddharthnegi1/Customer-Churn-Project/blob/main/Screenshot%20Folder/3.%20Customer%20subscribed%20services.png )
+![image alt]( https://github.com/Siddharthnegi1/Customer-Churn-Project/blob/main/Screenshot%20Folder/3.%20Customer%20subscribed%20services.png )
 
 
 
